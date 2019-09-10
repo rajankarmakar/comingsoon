@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/comingsoon/static/css/main.83af0d5a.chunk.css",
+    "main.js": "/comingsoon/static/js/main.62a5b323.chunk.js",
+    "main.js.map": "/comingsoon/static/js/main.62a5b323.chunk.js.map",
+    "runtime~main.js": "/comingsoon/static/js/runtime~main.736b6abe.js",
+    "runtime~main.js.map": "/comingsoon/static/js/runtime~main.736b6abe.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/comingsoon/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.207a5d25.chunk.js": "/comingsoon/static/js/2.207a5d25.chunk.js",
+    "static/js/2.207a5d25.chunk.js.map": "/comingsoon/static/js/2.207a5d25.chunk.js.map",
+    "index.html": "/comingsoon/index.html",
+    "precache-manifest.63954055dd98d9ff0d7a3bfcc65e2f3a.js": "/comingsoon/precache-manifest.63954055dd98d9ff0d7a3bfcc65e2f3a.js",
+    "service-worker.js": "/comingsoon/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/comingsoon/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.83af0d5a.chunk.css.map": "/comingsoon/static/css/main.83af0d5a.chunk.css.map"
+  }
+}
